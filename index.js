@@ -1,1 +1,1 @@
-console.log("index npm");
+console.log("index npm2");
