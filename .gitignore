@@ -124,3 +124,7 @@ dist
 *.iml
 out
 gen
+
+#node_nodules
+node_modules
+**/*.js
